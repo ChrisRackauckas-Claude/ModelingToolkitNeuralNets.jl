@@ -1926,9 +1926,9 @@ version = "5.0.0"
 
 [[deps.OptimizationBase]]
 deps = ["ADTypes", "ArrayInterface", "DifferentiationInterface", "DocStringExtensions", "FastClosures", "LinearAlgebra", "PDMats", "Reexport", "SciMLBase", "SparseArrays", "SparseConnectivityTracer", "SparseMatrixColorings"]
-git-tree-sha1 = "bd64cb79e5ea2bac8de67c172fc01ec9ac1abe04"
+git-tree-sha1 = "23afe72b5e5a6b57132895fd5bdedcf83dede91c"
 uuid = "bca83a33-5cc9-4baa-983d-23429ab6bcbb"
-version = "3.2.0"
+version = "3.3.0"
 
     [deps.OptimizationBase.extensions]
     OptimizationEnzymeExt = "Enzyme"
@@ -1960,9 +1960,9 @@ version = "0.4.6"
 
 [[deps.OptimizationOptimisers]]
 deps = ["Optimisers", "OptimizationBase", "Printf", "ProgressLogging", "Reexport", "SciMLBase"]
-git-tree-sha1 = "7fa00c3e0eca75cce12ee04c632ea4548baf181e"
+git-tree-sha1 = "55aece9f744aed46e9c8c22ae20d74fa7f9534d5"
 uuid = "42dfb2eb-d2b4-4451-abcd-913932933ac1"
-version = "0.3.12"
+version = "0.3.13"
 
 [[deps.Opus_jll]]
 deps = ["Artifacts", "JLLWrappers", "Libdl"]
